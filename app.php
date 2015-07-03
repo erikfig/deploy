@@ -1,5 +1,9 @@
 <?php
 
+/**
+ * Aplicação Slim
+ */
+
 include __DIR__.'/vendor/autoload.php';
 
 $app = new Slim\Slim;
